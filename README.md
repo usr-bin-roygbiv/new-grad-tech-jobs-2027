@@ -2,7 +2,7 @@ Open jobs from employers' own career sites, updated daily by Applystead.
 
 # New grad and early-career jobs
 
-New grad, graduate, entry-level, early-career and junior roles; never senior roles or internships. 197 jobs, updated 2026-11-12, from [Applystead](https://applystead.com/lists/new-grad?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs-2027).
+New grad, graduate, entry-level, early-career and junior roles; never senior roles or internships. 197 jobs, updated 2026-11-13, from [Applystead](https://applystead.com/lists/new-grad?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs-2027).
 
 | Company | Role | Location | Posted | Pay | Apply |
 | --- | --- | --- | --- | --- | --- |
